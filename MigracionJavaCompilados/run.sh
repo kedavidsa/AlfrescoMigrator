@@ -1,1 +1,1 @@
-java -Xms1524m -Xmx1524m -XX:PermSize=100M -XX:MaxPermSize=500m -jar  AlfrescoMigration.jar http://192.168.0.25/alfresco/service/api/cmis user user /bodega/2013 /bodega/logmigracion /bodega/logmigracion
+java -Xms1524m -Xmx1524m -XX:PermSize=100M -XX:MaxPermSize=500m -jar  AlfrescoMigration.jar http://192.168.0.25/alfresco/service/api/cmis user user /bodega/2013 /log/logmigracion /log/logmigracion
